@@ -1,0 +1,25 @@
+/****************************************TAG SELECTRORS****************************************/
+body {
+  background-color:#FBE6C2;
+}
+
+hr {
+  border-style:none;
+  border-top-style: dotted;
+  border-color: #F48B29;
+  border-radius: 0;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #AC0D0D;
+}
+
+h3 {
+  color:#AC0D0D
+}
+/****************************************CLASS SELECTRORS****************************************/
+
+
+/****************************************ID SELECTRORS*******************************************/
